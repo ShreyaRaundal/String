@@ -120,4 +120,4 @@ Count distinct substrings
 
 Minimum number of swaps to make string palindrome
 
-Convert string to integer (implement atoi)
+Convert string to integer (implement atoi).
